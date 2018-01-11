@@ -2,4 +2,4 @@
 
 1: Install Node
 
-2: Run `node index.js`
+2: Run `node index.js`# dna_kata
